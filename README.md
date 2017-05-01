@@ -1,6 +1,6 @@
 # Atproject
 
-# How to Install:
+# How to Install::::
   in termimall copy the following command:
   (1) if you have administrator permission:
   
